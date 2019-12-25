@@ -15,4 +15,4 @@ spring:
 spring:
   profiles: test
   application:
-    name: microservicecloud-config-zlsoft-test  #UTF8
+    name: microservicecloud-config-zlsoft-test  #必须UTF8
